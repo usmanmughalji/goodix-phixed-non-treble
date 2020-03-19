@@ -1,4 +1,4 @@
-Goodix Fixed Blobs
+Goodix Fixed Blobs - Non Treble
 
 FP Blobs For Redmi 4x - Santoni for Q - Based ROMs Only.
 
